@@ -6,7 +6,6 @@ on:
               "ci_cd_seminar"
 
 jobs:
-
   welcome:
     runs-on: ubuntu-latest
 
