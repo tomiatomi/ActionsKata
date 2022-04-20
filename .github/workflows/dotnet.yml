@@ -1,9 +1,6 @@
 name: .NET
 
-on: 
-  pull_request:
-    branches: main
-              "ci_cd_seminar"
+on: [pull_request]
 
 jobs:
   welcome:
